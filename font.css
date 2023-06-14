@@ -1,0 +1,87 @@
+/* ringside */
+@font-face {
+  font-family: Ringside-Reqular-Light;
+  src: url("./fonts/ringside/RingsideRegular-Light-c5113430277bb308553bd82b29442fbb.woff2")
+    format("woff2");
+
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Ringside-Condensed-Book;
+  src: url("./fonts/ringside/RingsideCondensedSSm-Book-1c9b0f2de54d82e5352789dfc7780e95.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Ringside-Extrawide-Book;
+  src: url("./fonts/ringside/RingsideExtraWide-Book-3b59ac98f4fed5065c120f5014da0a01.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Ringside-Reqular-Book;
+  src: url("./fonts/ringside/RingsideRegular-Book-5375531e1754f8d74e5a966f49d39fbd.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Ringside-ReqularSSm-Book;
+  src: url("./fonts/ringside/RingsideRegularSSm-Book-cecf842b9434e04f3a51904e17a1065b.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Ringside-CondenseSSm-Book;
+  src: url("./fonts/ringside/RingsideCondensedSSm-Book-1c9b0f2de54d82e5352789dfc7780e95.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Ringside-Condensed-Medium;
+  src: url("./fonts/ringside/RingsideCondensedSSm-Medium-7ffe8657bd1385483de06c5ec32f8e53.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Ringside-Extrawide-Medium;
+  src: url("./fonts/ringside/RingsideExtraWide-Medium-7404d62b46f5b1c70cc1e0a975c47b43.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Ringside-Compressed-Bold;
+  src: url("./fonts/ringside/RingsideCompressed-Bold-fcd8610b93476ddfa232c51685faa543.woff2")
+    format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Ringside-Reqular-Bold;
+  src: url("./fonts/ringside/RingsideRegularSSm-Bold-b7fdd8dcce453e027bf52f01697b75d7.woff2")
+    format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* decimal */
+
+@font-face {
+  font-family: Decimal;
+  src: url("./fonts/decimal/Decimal-Book-544df12bb8a460615900b69c60974a32.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
