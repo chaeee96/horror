@@ -3,6 +3,7 @@
   .right-cont main section article {
     padding: 72px;
   }
+  
   .right-cont--main .row:nth-child(3) {
     margin-top: 5.4rem;
   }
@@ -10,9 +11,11 @@
   .right-cont--commentsList ul li {
     width: calc(33.3333% - 0.4%);
   }
+
   .right-cont main section article .row:nth-child(1) h1 {
     font-size: 6.2rem;
   }
+  
   .right-cont main section article .row:nth-child(1) small {
     font-size: 1.4rem;
   }
